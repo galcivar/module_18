@@ -1,4 +1,4 @@
-# Module 19
+# Module 18
 
 ## Instructions
 Your task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
@@ -41,14 +41,13 @@ In the Main View you can see the **Ledger** where one can validate the Ledger (*
 
 ### Validated Blockchain
 ![Valid](valid-blockchain.png)
----
 
+---
 ## Contributors
 Gabriel Alcivar
 [Email](mailto:galcivar@galgomedia.com) - [LinkedIn](https://www.linkedin.com/in/gabriel-alcivar-aa83a710b/) - [GitHub](https://github.com/galcivar/)
 
 ---
-
 ## MIT License
 
 Copyright (c) [2022] [Gabriel Alcivar]

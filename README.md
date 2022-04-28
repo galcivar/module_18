@@ -37,7 +37,7 @@ In the Main View you can see the **Ledger** where one can validate the Ledger (*
 ---
 ## Screenshots
 ### Adding and Validating to the Blockchain
-**TODO**
+For video use: `streamlit-pychain.webm`
 
 ### Validated Blockchain
 ![Valid](valid-blockchain.png)
